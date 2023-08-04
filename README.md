@@ -1,2 +1,2 @@
 # DSA-Java
-This repositories contain DSA Problems and Solutions in Java 
+This repositories contain most common DSA Problems & Solutions in Java 
